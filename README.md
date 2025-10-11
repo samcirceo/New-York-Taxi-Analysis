@@ -64,7 +64,7 @@ Results of the tuned Algorithm:
 | Tuned     | 13.3  | 0.52 |
 
 
-![results] (images/1.png)
+![results](images/1.png)
 
 ## Conclusion
 Our model metrics tell us that our predictions are on average $13.00 off from the actual hourly rate. The model only explains 52% of the date. These results are just okay and could be improved. 
