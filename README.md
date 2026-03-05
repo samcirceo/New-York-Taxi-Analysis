@@ -1,5 +1,7 @@
 # New York Taxi Analysis
 
+<img src="images/taxi.jpeg" width="200"/>
+
 ## Project Overview 
 
 This project involves exploring and modeling the dataset of taxi trips collected by the New York City Taxi and Limousine Commission (TLC). predicts the average money spent on taxi rides per given day and hour. This dataset contains millions of trip records, including details such as pickup and drop-off times, locations, fares, distances, and passenger counts for just January 2020. The project aims to extract insights, understand travel patterns, and build predictive models using machine learning techniques.
