@@ -8,7 +8,7 @@ This project involves exploring and modeling the dataset of taxi trips collected
 
 The main objective after exploring the data was to predict average money spent for each region of New York per given day and hour. 
 
-Here is the [data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) used as well as the [data dictionary](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf). 
+Here is the [data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) used as well as the [data dictionary](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf). Reference the [Notebook](/PresentableNotebook.ipynb) for full code. 
 
 This project was guided by [Misra Turp's Hands On Data Science Course](https://www.youtube.com/playlist?list=PLM8lYG2MzHmTgsYKLJtdKwf6tHVbui9eE).
 
