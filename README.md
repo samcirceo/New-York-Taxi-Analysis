@@ -77,6 +77,11 @@ Some potential next steps include the following
 - Use K-means to identify popular pickup/drop off hotspots and encode these as clusters
 - Add other months into the dataset
 
+### Where to next?
+- 📓 Reference the [Jupyter notebook](/PresentableNotebook.ipynb) for this project
+- 🚀 Browse my other projects on my [portfolio](https://samcirceo.github.io/)
+- 📫 Reach me at: samicirceo1@gmail.com
+
 
 
 
