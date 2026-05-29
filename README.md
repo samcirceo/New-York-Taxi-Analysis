@@ -1,6 +1,9 @@
 # New York Taxi Analysis
 
-<img src="images/taxi.jpeg" width="200"/>
+<p align="center">
+  <img src="images/taxi.jpeg" width="350"/>
+</p>
+
 
 ## Project Overview 
 
